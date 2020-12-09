@@ -1,0 +1,3 @@
+[1207/134543.005:ERROR:directory_reader_win.cc(43)] FindFirstFile: Det går inte att hitta sökvägen. (0x3)
+[1208/112948.217:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1208/113948.262:ERROR:directory_reader_win.cc(43)] FindFirstFile: Det går inte att hitta sökvägen. (0x3)
